@@ -1,0 +1,22 @@
+@import "nullstyle.scss";
+
+
+
+body{
+	padding: 30px;
+	background-color: #888;
+	.content{
+		width: 100%;
+		//display: flex;
+		//justify-content: space-between;
+	}
+	.block1{
+		display: inline-block;
+		justify-content: space-between;
+	}
+	.block2{
+		margin-right:  
+		display: inline-block;
+		justify-content: space-between;
+	}
+}
